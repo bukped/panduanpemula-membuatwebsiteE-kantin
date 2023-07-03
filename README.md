@@ -18,5 +18,6 @@ Mochammad Rayfan Aqbillah, lahir di bandung pada tanggal 9 juni 2004 Pendidikan 
 Nama : Cahyo Prianto 
 
 ![dosen1](https://github.com/rayfanaqbil/panduanpemula-membuatwebsiteE-kantin/assets/114634943/9e372c1f-2b02-4364-a3f7-97fe1f373cfe)
+
 Cahyo Prianto, lahir di Bandung tahun 1984, saat ini aktif sebagai pengajar di Universitas Logistik dan Bisnis Internasional sejak 2015
 
