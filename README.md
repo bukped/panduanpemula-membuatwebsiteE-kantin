@@ -6,7 +6,8 @@ Buku ini menawarkan pengetahuan dan wawasan yang praktis, serta memberikan pandu
 
 # profil penulis 
 Nama : Serli Pariela
-![profilpenulis1](https://github.com/rayfanaqbil/panduanpemula-membuatwebsiteE-kantin/assets/114634943/9913a333-2a87-4235-9e6c-81ca8199046e)
+![serli1](https://github.com/rayfanaqbil/panduanpemula-membuatwebsiteE-kantin/assets/114634943/eb735beb-45b0-4666-9348-112f8d549aa0)
+
 Serli Pariela, lahir di Cimahi pada tanggal 22 juni 2002 Pendidikan tingkat dasar hinnga menegah dan atas ditempuh di Jawa Barat, Melanjutkan Pendidikan D4 di Universitas Logistik dan Bisnis Internasional(ULBI) Bandung
 
 Nama : Mochammad Rayfan Aqbillah
